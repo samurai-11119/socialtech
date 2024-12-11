@@ -58,9 +58,8 @@ header {
   margin: 100px 0 0 50px;
 }
 #main-message > p {
-  font-size: 40px;
+  font-size: 28px;
   margin: 0 0 0 50px;
-  color: green;
 }
 #main-visual > img {
   max-width: 620px;
